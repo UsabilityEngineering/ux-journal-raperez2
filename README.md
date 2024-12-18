@@ -4,7 +4,7 @@ My name is Ray Perez, I am a Computer Science Major. My past times are playing c
 
 ## UX Team Project
 
-Coming soon.
+[FightMe!](https://github.com/chicoState/ux-FightMe)
 
 ## UX Journal
 
